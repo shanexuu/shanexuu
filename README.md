@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Yun Xu 👋
 
-<!--
-**shanexuu/shanexuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer with a deep interest in crafting websites that are intuitive and visually compelling. My goal is to create websites that not only look great but also provide a seamless user experience. I’m always open to new opportunities and collaborations, so feel free to reach out.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+#!/usr/bin/python
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Yun Xu"
+        self.role = "Software Engineer"
+        self.languages = ["Python", "JavaScript", "Java"]
+        self.email = "hello@yun-xu.com"
+        self.website = "https://www.yun-xu.com"
+
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
