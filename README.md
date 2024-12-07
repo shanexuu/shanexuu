@@ -12,6 +12,9 @@ class SoftwareEngineer:
         self.name = "Yun Xu"
         self.role = "Software Engineer"
         self.languages = ["Python", "JavaScript", "Java"]
+        self.frameworks = ["React", "Flask", "React Native", "Bootstrap", "Tailwind CSS", "Node"]
+        self.databases = ["MySQL", "Supabase", "MongoDB"]
+        self.tools = ["Figma", "Adobe XD"]
         self.email = "hello@yun-xu.com"
         self.website = "https://www.yun-xu.com"
 
