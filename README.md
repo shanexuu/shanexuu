@@ -11,8 +11,8 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Yun Xu"
         self.role = "Software Engineer"
-        self.languages = ["Python", "JavaScript", "Java"]
-        self.frameworks = ["React", "Flask", "React Native", "Bootstrap", "Tailwind CSS", "Node"]
+        self.languages = ["Python", "JavaScript", "TypeScript", "Java", "PHP"]
+        self.frameworks = ["React", "Next.js", "Flask", "React Native", "Bootstrap", "Tailwind CSS", "Node"]
         self.databases = ["MySQL", "Supabase", "MongoDB"]
         self.tools = ["Figma", "Adobe XD"]
         self.email = "hello@yun-xu.com"
